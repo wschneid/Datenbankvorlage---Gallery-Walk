@@ -1,4 +1,4 @@
-# Datenbankvorlage---Gallery-Walk (BETA)
+# Datenbankvorlage---Gallery-Walk (BETA 0.7)
 Ein digitaler Gallery Walk mit Peer-Feedback als Preset für die Moodle-Aktivität **Datenbank**. Die Schüler laden ihre Arbeiten hoch und geben Feedback.  
 
 ## Funktionen
