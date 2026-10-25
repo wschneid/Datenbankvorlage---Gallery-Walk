@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<preset>
+
+<description>Gallery Walk: Galerierundgang mit konfigurierbarem Peer-Feedback für beliebige Dateitypen</description>
+
+<settings>
+<intro></intro>
+<comments>0</comments>
+<requiredentries>0</requiredentries>
+<requiredentriestoview>0</requiredentriestoview>
+<maxentries>0</maxentries>
+<rssarticles>0</rssarticles>
+<approval>1</approval>
+<manageapproved>1</manageapproved>
+<defaultsortdir>0</defaultsortdir>
+<defaultsort>0</defaultsort>
+</settings>
+
+<field>
+<type>text</type>
+<name>Typ</name>
+<description>Art des Eintrags (wird automatisch gesetzt)</description>
+<required>0</required>
+</field>
+
+<field>
+<type>text</type>
+<name>Titel</name>
+<description>Titel der Arbeit</description>
+<required>0</required>
+</field>
+
+<field>
+<type>text</type>
+<name>Name</name>
+<description>Name des Autors oder der Gruppe</description>
+<required>0</required>
+</field>
+
+<field>
+<type>file</type>
+<name>Datei</name>
+<description>Hochgeladene Datei</description>
+<required>0</required>
+<param3>52428800</param3>
+</field>
+
+<field>
+<type>text</type>
+<name>Link</name>
+<description>Link zur Arbeit (optional)</description>
+<required>0</required>
+</field>
+
+<field>
+<type>textarea</type>
+<name>Text</name>
+<description>Text der Arbeit oder kurze Beschreibung</description>
+<required>0</required>
+<param2>60</param2>
+<param3>12</param3>
+<param4>1</param4>
+<param5>0</param5>
+</field>
+
+<field>
+<type>text</type>
+<name>Bezug</name>
+<description>Nummer des Eintrags, auf den sich Feedback oder Antwort bezieht</description>
+<required>0</required>
+</field>
+
+<field>
+<type>text</type>
+<name>F1</name>
+<description>Feedback, Feld 1</description>
+<required>0</required>
+</field>
+
+<field>
+<type>text</type>
+<name>F2</name>
+<description>Feedback, Feld 2</description>
+<required>0</required>
+</field>
+
+<field>
+<type>text</type>
+<name>F3</name>
+<description>Feedback, Feld 3</description>
+<required>0</required>
+</field>
+
+<field>
+<type>text</type>
+<name>F4</name>
+<description>Feedback, Feld 4</description>
+<required>0</required>
+</field>
+
+<field>
+<type>text</type>
+<name>F5</name>
+<description>Feedback, Feld 5</description>
+<required>0</required>
+</field>
+
+<field>
+<type>text</type>
+<name>F6</name>
+<description>Feedback, Feld 6</description>
+<required>0</required>
+</field>
+
+<field>
+<type>text</type>
+<name>Antwort</name>
+<description>Antwort des Autors</description>
+<required>0</required>
+</field>
+
+<field>
+<type>text</type>
+<name>Einstellung</name>
+<description>Einstellungen des Lehrers (wird automatisch gesetzt)</description>
+<required>0</required>
+</field>
+
+</preset>
