@@ -21,7 +21,7 @@ Die Schüler laden ihre Arbeiten hoch: Plakate, PDFs, Videos, Webseiten, Texte o
 - [Datenschutz und Sicherheit](#datenschutz-und-sicherheit)
 - [So funktioniert es technisch](#so-funktioniert-es-technisch)
 - [Bekannte Einschränkungen](#bekannte-einschränkungen)
-- [Dateien in diesem Repository](#dateien-in-diesem-repository)
+
 
 ---
 
