@@ -2,7 +2,7 @@
 
 Ein digitaler Galerierundgang mit Peer-Feedback, gebaut als Vorlagensatz (Preset) für die Moodle-Aktivität **Datenbank**. Ohne Plugin, ohne Administratorrechte, ohne externe Dienste.
 
-**Version 1.0** · [Änderungen](CHANGELOG.md)
+**Version 1.0** · 
 
 Die Schüler laden ihre Arbeiten hoch: Plakate, PDFs, Videos, Webseiten, Texte oder Links. Im Rundgang bekommt jeder Schüler feste Stationen zugeteilt und gibt Feedback nach einem Formular, das der Lehrer selbst festlegt. Der Lehrer steuert die Phasen, gibt Arbeiten und Feedback frei und sieht in einer Übersicht, wie viel Feedback jede Arbeit bekommen hat.
 
