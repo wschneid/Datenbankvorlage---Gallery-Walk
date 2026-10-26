@@ -81,7 +81,7 @@ Der Import legt alle Felder und Vorlagen an.
 
 ### Weg 2: Felder und Vorlagen einzeln anlegen
 
-Dieser Weg ist nützlich, wenn du die Vorlagen in eine bestehende Datenbank übernehmen oder einzelne Dateien austauschen möchtest. Alle Dateien liegen im Ordner [`vorlagen/`](vorlagen/).
+Dieser Weg ist nützlich, wenn du die Vorlagen in eine bestehende Datenbank übernehmen oder einzelne Dateien austauschen möchtest. 
 
 **Schritt 1: Felder anlegen.** Die Namen müssen genau so lauten:
 
